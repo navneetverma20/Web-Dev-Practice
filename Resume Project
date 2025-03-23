@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Resume</title>
+</head>
+<body>
+    <h2>Love Babbar</h2>
+    <p>Contact: <a href="lovebabbar3@gmail.com">lovebabbar3@gmail.com</a></p>
+    <p>LinkedIn: <a href="linkedin.com/in/love-babbar">linkedin.com/in/love-babbar</a></p>
+    <p>Gitub: <a href="github.com/lovebabbar">github.com/lovebabbar</a></p>
+
+    <table>
+        <tr>
+            <td><img src="Screenshot 2025-03-23 at 12.57.23 PM.png" alt="LoveBabbarPhoto" height="150" width="150"></td>
+            <td>I am a passionate software engineer with expertise in problem solving and algorithmic thinking. I love 
+                to explore various technologies and frameworks to develop efficient and scalable solutions. With a
+                strong foundation in data structures and algorithms, I strive to create robust and optimized code.
+                I am constantly expanding my skills and staying up-to-date with the latest advancements in the field 
+                of software development.
+            </td>
+        </tr>
+    </table>
+
+    <h3>Education</h3>
+    <ul>
+        <li>B.Tech.(IT), Netaji Subhas Institute of Technology</li>
+        <li>AESNT Rama Rao Memorial Senior Secondary School</li>
+    </ul>
+
+    <h3>Work Experience</h3>
+    <p><strong>Software Engineer, Microsoft</strong></p>
+    <p>Nov 2021 - May 2022</p>
+    <ul>
+        <li>Developed and maintained web applications using HTML, CSS and JavaScript</li>
+        <li>Collaborated with cross-functional teams to design and implement software solutions</li>
+        <li>Optimized code performance and improved application efficiency</li>
+    </ul>
+
+    <p><strong>Software Development Engineer, Amazon</strong></p>
+    <p>July 2019 - October 2021</p>
+    <ul>
+        <li>Assisted in developing and testing software modules</li>
+        <li>Worked on bug fixing and performance enhancement tasks</li>
+    </ul>
+
+    <h3>Skills</h3>
+    <ul>
+        <li>Java</li>
+        <li>C++</li>
+        <li>Python</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>SQL</li>
+    </ul>
+
+    <h3>Achievements</h3>
+    <ul>
+        <li>Service Selection Board (Recommendation Letter for Officer Entry in Indian Army)</li>
+        <li>Published an article on data structures in a renowned tech magazine</li>
+    </ul>
+
+    <h3>Projects</h3>
+    <ul>
+        <li><strong>Library Management System</strong></li>
+        <p>Library Management Application - developed a desktop application by using java swing and MYSQL server.</p>
+        <p>Hosted Link: <a href="example.com/ecommerce">example.com/ecommerce</a></p>
+        <p>GitHub Link: <a href="github.com/lovebabbar/ecommerce">github.com/lovebabbar/ecommerce</a></p>
+
+        <li><strong>Friendly Chat App</strong></li>
+        <p>Friendly Chat - An android application making use of firebase, to help people connect and chat by sending 
+            messages and images, also having login options.
+        </p>
+        <p>Hosted Link: <a href="example.com/blog">example.com/blog</a></p>
+        <p>GitHub Link: <a href="github.com/lovebabbar/blog">github.com/lovebabbar/blog</a></p>
+
+        <li><strong>Secure Messenger AppSecure</strong></li>
+        <p>Secure Messenger App - An android application to have secure communication between the sender and recipient,
+            using a number of cryptography algorithms like AES, DES, RSA techniques for security.
+        </p>
+        <p>Hosted Link: <a href="example.com/dashboard">example.com/dashboard</a></p>
+        <p>GitHub Link: <a href="github.com/lovebabbar/dashboard">github.com/lovebabbar/dashboard</a></p>
+    </ul>
+
+    <footer>&copy; Love Babbar. All rights reserved.</footer>
+</body>
+</html>
