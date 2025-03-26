@@ -8,3 +8,9 @@ Resume Project
 <img width="1440" alt="Screenshot 2025-03-23 at 7 43 24 PM" src="https://github.com/user-attachments/assets/cfe1bdf5-e69f-4d98-a4bb-b1472a074db5" />
 FAQs Sample Structure
 <img width="312" alt="image" src="https://github.com/user-attachments/assets/ec1594fd-2334-48b3-ba99-2ffe31219375" />
+Product Catalog Project
+<img width="1440" alt="Screenshot 2025-03-26 at 5 24 08 PM" src="https://github.com/user-attachments/assets/9412c312-45be-4cf1-9c09-34eb3bb2dadb" />
+<img width="1440" alt="Screenshot 2025-03-26 at 5 24 17 PM" src="https://github.com/user-attachments/assets/a1510333-0b8c-495c-86ac-83c94bca147c" />
+<img width="1440" alt="Screenshot 2025-03-26 at 5 24 27 PM" src="https://github.com/user-attachments/assets/f1e9be4d-6a42-4e4a-9da5-196969594a3a" />
+<img width="1440" alt="Screenshot 2025-03-26 at 5 24 37 PM" src="https://github.com/user-attachments/assets/3167c508-4a13-4ac1-9134-055fa6d339e1" />
+<img width="1440" alt="Screenshot 2025-03-26 at 5 25 02 PM" src="https://github.com/user-attachments/assets/df5ce2ae-8e98-4be2-ae38-8e7f5b9471c0" />
