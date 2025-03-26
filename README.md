@@ -10,8 +10,8 @@ FAQs Sample Structure
 
 <img width="312" alt="image" src="https://github.com/user-attachments/assets/ec1594fd-2334-48b3-ba99-2ffe31219375" />
 
-
 Product Catalog Project
+
 <img width="1440" alt="Screenshot 2025-03-26 at 5 24 08 PM" src="https://github.com/user-attachments/assets/9412c312-45be-4cf1-9c09-34eb3bb2dadb" />
 <img width="1440" alt="Screenshot 2025-03-26 at 5 24 17 PM" src="https://github.com/user-attachments/assets/a1510333-0b8c-495c-86ac-83c94bca147c" />
 <img width="1440" alt="Screenshot 2025-03-26 at 5 24 27 PM" src="https://github.com/user-attachments/assets/f1e9be4d-6a42-4e4a-9da5-196969594a3a" />
