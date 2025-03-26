@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Catalog</title>
+</head>
+<body>
+    <h1>Product Catalog</h1>
+
+    <ul>
+        <li><a href="#electro">Electronics</a></li>
+        <li><a href="#cloth">Clothing</a></li>
+        <li><a href="#home">Home</a></li>
+    </ul>
+    
+    <h2 id="electro">Electronics</h2>
+    <h3>Laptop</h3>
+    <p><strong>Description: </strong>High-performance laptop with the latest processor and ample storage.</p>
+    <p><strong>Price: </strong>$999.99</p>
+    <p><strong>Availability: </strong>In stock</p>
+    <p><img src="Screenshot 2025-03-26 at 12.35.54 PM.png" alt="Could not load image" width="300" height="200"></p>
+    <p><a href="https://www.apple.com/in/macbook-pro/" target="_blank">View Details</a></p>
+    <ul>
+        <li><strong>Brand: </strong>Apple</li>
+        <li><strong>Screen Size: </strong>15.6 inches</li>
+        <li><strong>RAM: </strong>8 GB</li>
+        <li><strong>Storage: </strong>512 GB SSD</li>
+    </ul>
+
+    <h3>Smartphone</h3>
+    <p><strong>Description: </strong>Feature-rich smartphone with a high resolution display and advanced camera.</p>
+    <p><strong>Price: </strong>$699.99</p>
+    <p><strong>Availability: </strong>Out of stock</p>
+    <p><img src="Screenshot 2025-03-26 at 2.46.22 PM.png" alt="Could not load image" width="200" height="300"></p>
+    <p><a href="https://www.apple.com/in/iphone/?afid=p238%7Csa2sXHWzR-dc_mtid_209254ho67063_pcrid_733842189292_pgrid_165937520614_pexid__ptid_kwd-334361787_&cid=wwa-in-kwgo-iphone-slid--Core--Avail-" target="_blank">View Details</a></p>
+    <ul>
+        <li><strong>Brand: </strong>Apple</li>
+        <li><strong>Screen Size: </strong>6.5 inches</li>
+        <li><strong>Camera: </strong>48 MP + 12 MP</li>
+        <li><strong>Storage: </strong>128 GB</li>
+    </ul>
+
+    <h2 id="cloth">Clothing</h2>
+    <h3>T-Shirt</h3>
+    <p><strong>Description: </strong>Casual and comfortable t-shirt made from premium quality cotton.</p>
+    <p><strong>Price: </strong>$19.99</p>
+    <p><strong>Availabilty: </strong>In stock</p>
+    <p><img src="Screenshot 2025-03-26 at 3.11.49 PM.png" alt="Could not load image" width="400" height="280"></p>
+    <p><a href="https://www.lacoste.ae/en/lacoste/men/clothing/t-shirts" target="_blank">View Details</a></p>
+    <ul>
+        <li><strong>Brand: </strong>Lacoste</li>
+        <li><strong>Color: </strong>Off White</li>
+        <li><strong>Size: </strong>S, M, L</li>
+        <li><strong>Material: </strong>100% cotton</li>
+    </ul>
+
+    <h3>Jeans</h3>
+    <p><strong>Description: </strong>Classic jeans with a slim fit and stylish design.</p>
+    <p><strong>Price: </strong>$49.99</p>
+    <p><strong>Availability: </strong>In stock</p>
+    <p><img src="Screenshot 2025-03-26 at 3.31.47 PM.png" alt="Could not load image" width="430" height="250"></p>
+    <p><a href="https://www.jackjones.in/jeans-new-in-jj" target="_blank">View Details</a></p>
+    <ul>
+        <li><strong>Brand: </strong>Jack&Jones</li>
+        <li><strong>Color: </strong>Blue</li>
+        <li><strong>Size: </strong>30, 32, 34</li>
+        <li><strong>Material: </strong>Denim</li>
+    </ul>
+
+    <h2 id="home">Home</h2>
+    <h3>Table Lamp</h3>
+    <p><strong>Description: </strong>Modern and stylish table lamp to enhance your home decor.</p>
+    <p><strong>Price: </strong>$39.99</p>
+    <p><strong>Availability: </strong>In stock</p>
+    <p><img src="Screenshot 2025-03-26 at 3.53.09 PM.png" alt="Could not load the image" width="300" height="400"></p>
+    <p><a href="https://www.ikea.com/in/en/p/flyghoejd-table-lamp-brass-beige-70524458/" target="_blank">View Details</a></p>
+    <ul>
+        <li><strong>Brand: </strong>Home Essentials</li>
+        <li><strong>Color: </strong>Warm White</li>
+        <li><strong>Dimensions: </strong>12 inches (height)</li>
+        <li><strong>Material: </strong>Ceramic, Metal</li>
+    </ul>
+
+    <h3>Throw Pillow</h3>
+    <p><strong>Description: </strong>Soft and comfortable throw pillow for your living room or bedroom.</p>
+    <p><strong>Price: </strong>$24.99</p>
+    <p><strong>Availability: </strong>In stock</p>
+    <p><img src="Screenshot 2025-03-26 at 4.12.46 PM.png" alt="Could not load the image" width="350" height="290"></p>
+    <p><a href="https://www.amazon.in/Cheer-Collection-Shaggy-Pillows-Accent/dp/B07GRB9796?th=1" target="_blank">View Details</a></p>
+    <ul>
+        <li><strong>Brand: </strong>Cheer Collection</li>
+        <li><strong>Color: </strong>Grey Ombre</li>
+        <li><strong>Size: </strong>18 x 18 inch</li>
+        <li><strong>Material: </strong>Synthetic</li>
+    </ul>
+
+    <footer>&copy; 2025 Product Catalog. All rights reserved.</footer>
+</body>
+</html>
