@@ -16,3 +16,7 @@ Product Catalog Project
 <img width="1440" alt="Screenshot 2025-03-26 at 5 24 27 PM" src="https://github.com/user-attachments/assets/f1e9be4d-6a42-4e4a-9da5-196969594a3a" />
 <img width="1440" alt="Screenshot 2025-03-26 at 5 24 37 PM" src="https://github.com/user-attachments/assets/3167c508-4a13-4ac1-9134-055fa6d339e1" />
 <img width="1440" alt="Screenshot 2025-03-26 at 5 25 02 PM" src="https://github.com/user-attachments/assets/df5ce2ae-8e98-4be2-ae38-8e7f5b9471c0" />
+
+Media Project
+<img width="1440" alt="Screenshot 2025-04-03 at 4 52 57 PM" src="https://github.com/user-attachments/assets/4011d8d9-edca-4989-bf86-821f00341cde" />
+<img width="1440" alt="Screenshot 2025-04-03 at 4 54 56 PM" src="https://github.com/user-attachments/assets/8f7625d4-7120-4084-9fe1-465a51b570e1" />
